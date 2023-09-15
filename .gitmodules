@@ -1,0 +1,3 @@
+[submodule "src/submodules/models"]
+	path = src/submodules/models
+	url = git@github.com:hotuankn1/shopee-clone-model.git
